@@ -70,17 +70,17 @@ body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlheyRMERBxkYXqUonY59jwNHWIR0lm0o6d36QWwOREyJbtgr);
     background-size: cover;
 }
-@media(max-width:700px){
+/* @media(max-width:700px){
     .container{
         grid-template-columns: repeat(4, 1fr);
         background-color: blueviolet;
     }
 
-}
-@media(max-width:500px){
+} */
+/* @media(max-width:500px){
     .container{
         grid-template-columns: repeat(2, 1fr);
         background-color: rgb(12, 237, 64);
     }
 
-}
+} */
